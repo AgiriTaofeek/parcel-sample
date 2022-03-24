@@ -1,0 +1,20 @@
+{
+  "name": "parcel",
+  "version": "1.0.0",
+  "description": "A simple portfolio website",
+  "source": "./src/index.html",
+  "scripts": {
+    "dev": "parcel",
+    "build": "parcel build"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "devDependencies": {
+    "@parcel/transformer-sass": "^2.4.0",
+    "autoprefixer": "^10.4.4",
+    "parcel": "^2.4.0",
+    "postcss": "^8.4.12",
+    "sass": "^1.49.9"
+  }
+}
